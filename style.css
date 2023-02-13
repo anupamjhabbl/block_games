@@ -1,0 +1,27 @@
+#name_heading{
+    text-align: center;
+    margin-top:30px;
+}
+
+#message{
+    text-align: center;
+    margin-top:30px;
+}
+
+#main_box{
+    width:400px;
+    margin:auto;
+    margin-top:40px;
+}
+
+.box_level1{
+    display:flex;
+}
+
+.box_level2{
+    border:1px solid red;
+    width:30px;
+    height:30px;
+    margin:4px;
+    border-radius:50%;
+}
